@@ -1,0 +1,3 @@
+,false_positive,false_negative,true_positive,true_negative,true_result,total
+amount,10.0,60.0,580.0,229.0,809.0,879.0
+percent_group,0.04184100418410042,0.09375,0.90625,0.9581589958158996,0.9203640500568828,1.0
